@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "114724261271",
+    "project_id": "coursework-765cd",
+    "storage_bucket": "coursework-765cd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114724261271:android:77983d247947cc8c3008d2",
+        "android_client_info": {
+          "package_name": "com.example.coursework"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBENugLTsrVLiitmphzglSohPZ9VlsZw_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114724261271:android:77e3b6052b9357a83008d2",
+        "android_client_info": {
+          "package_name": "com.example.courseworkv1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBENugLTsrVLiitmphzglSohPZ9VlsZw_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114724261271:android:be8760cf821a31d53008d2",
+        "android_client_info": {
+          "package_name": "com.example.mycoursework"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBENugLTsrVLiitmphzglSohPZ9VlsZw_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
